@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>simulation</name>
+  <version>0.1.0</version>
+  <description>Gazebo world and launch files for Nash Navigation</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>MIT</license>
+  <depend>rclpy</depend>
+  <depend>gazebo_ros</depend>
+  <depend>robot_state_publisher</depend>
+  <depend>turtlebot3_gazebo</depend>
+  <depend>nash_solver</depend>
+  <depend>robot_navigator</depend>
+  <depend>nash_visualizer</depend>
+  <buildtool_depend>ament_python</buildtool_depend>
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

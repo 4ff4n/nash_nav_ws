@@ -1,0 +1,28 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from nash_interfaces/msg/NashDecision.msg
+// generated code does not contain a copyright notice
+
+
+module nash_interfaces {
+  module msg {
+    struct NashDecision {
+      string robot_a_id;
+
+      string robot_b_id;
+
+      string robot_a_action;
+
+      string robot_b_action;
+
+      string strategy_type;
+
+      double robot_a_prob_go;
+
+      double robot_b_prob_go;
+
+      double urgency_a;
+
+      double urgency_b;
+    };
+  };
+};

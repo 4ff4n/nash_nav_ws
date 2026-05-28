@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>nash_visualizer</name>
+  <version>0.1.0</version>
+  <description>RViz2 marker visualizer for Nash Navigation</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>MIT</license>
+  <depend>rclpy</depend>
+  <depend>nash_interfaces</depend>
+  <depend>visualization_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <buildtool_depend>ament_python</buildtool_depend>
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

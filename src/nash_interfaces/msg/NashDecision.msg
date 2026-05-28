@@ -1,0 +1,9 @@
+string  robot_a_id
+string  robot_b_id
+string  robot_a_action
+string  robot_b_action
+string  strategy_type
+float64 robot_a_prob_go
+float64 robot_b_prob_go
+float64 urgency_a
+float64 urgency_b
