@@ -3,6 +3,10 @@
 Multi-robot navigation for **ROS2 Jazzy** using **Game Theory** to resolve
 conflicts at intersections — no hardcoded priorities, purely emergent rational behaviour.
 
+### Media
+
+![QueryDemo](./media/demo.gif)
+
 ## Architecture
 
 ```
