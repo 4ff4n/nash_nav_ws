@@ -8,7 +8,7 @@ conflicts at intersections — no hardcoded priorities, purely emergent rational
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                         Gazebo World                            │
-│            (cross-intersection, 3 TurtleBot3 Burgers)           │
+│            (cross-intersection, 3 Bots)                         │
 └────────────────────────┬────────────────────────────────────────┘
                          │ /robotN/odom
            ┌─────────────▼─────────────┐
